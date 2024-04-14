@@ -1,13 +1,18 @@
 {
   "vaultName": "songBook",
-  "lastExport": 1713084256476,
+  "lastExport": 1713090413666,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "songs/passenger-let_her_go.md",
-    "songs/lost_frequencies-reality.md",
+    "songs/Alt-J-Breezeblocks.md",
+    "songs/Sia-Cheap_Thrills.md",
+    "songs/Culture_Club-Do_You_Really_Want_to_Hurt_Me.md",
+    "songs/Culture_Club-Karma_Chameleon.md",
+    "songs/Passenger-Let_Her_Go.md",
+    "songs/Lost_Frequencies-Reality.md",
+    "songs/Vance_Joy-Riptide.md",
     "index.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -62,97 +67,97 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1713084256476,
-      "sourceSize": 2252,
+      "modifiedTime": 1713090413666,
+      "sourceSize": 3939,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
@@ -188,13 +193,13 @@
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
@@ -206,39 +211,69 @@
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 143698,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1713084256476,
+      "modifiedTime": 1713090413666,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1713084256476,
-      "sourceSize": 99,
+      "modifiedTime": 1713090413666,
+      "sourceSize": 316,
       "exportedPath": "index.html",
       "dependencies": []
     },
-    "songs/passenger-let_her_go.md": {
-      "modifiedTime": 1713083171689,
-      "sourceSize": 4172,
+    "songs/Alt-J-Breezeblocks.md": {
+      "modifiedTime": 1713090413666,
+      "sourceSize": 3343,
+      "exportedPath": "songs/alt-j-breezeblocks.html",
+      "dependencies": []
+    },
+    "songs/Sia-Cheap_Thrills.md": {
+      "modifiedTime": 1713090413666,
+      "sourceSize": 3026,
+      "exportedPath": "songs/sia-cheap_thrills.html",
+      "dependencies": []
+    },
+    "songs/Culture_Club-Do_You_Really_Want_to_Hurt_Me.md": {
+      "modifiedTime": 1713090413666,
+      "sourceSize": 2805,
+      "exportedPath": "songs/culture_club-do_you_really_want_to_hurt_me.html",
+      "dependencies": []
+    },
+    "songs/Culture_Club-Karma_Chameleon.md": {
+      "modifiedTime": 1713090413666,
+      "sourceSize": 2519,
+      "exportedPath": "songs/culture_club-karma_chameleon.html",
+      "dependencies": []
+    },
+    "songs/Passenger-Let_Her_Go.md": {
+      "modifiedTime": 1713090413666,
+      "sourceSize": 4303,
       "exportedPath": "songs/passenger-let_her_go.html",
       "dependencies": []
     },
-    "songs/lost_frequencies-reality.md": {
-      "modifiedTime": 1713084256476,
-      "sourceSize": 2375,
+    "songs/Lost_Frequencies-Reality.md": {
+      "modifiedTime": 1713090413666,
+      "sourceSize": 2433,
       "exportedPath": "songs/lost_frequencies-reality.html",
+      "dependencies": []
+    },
+    "songs/Vance_Joy-Riptide.md": {
+      "modifiedTime": 1713090413666,
+      "sourceSize": 3755,
+      "exportedPath": "songs/vance_joy-riptide.html",
       "dependencies": []
     }
   }
